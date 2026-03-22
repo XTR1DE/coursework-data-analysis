@@ -11,13 +11,13 @@
 
 ## Выбранные наборы данных
 
-| Тип данных     | Кейс | Датасет                            | Ссылка  |
-|----------------|------|------------------------------------|---------|
-| Табличные      | 58   | Medical Insurance Price Prediction | [Kaggle](https://www.kaggle.com/datasets/harishkumardatalab/medical-insurance-price-prediction) |
-| Временные ряды | 62   | CWRU Bearing Dataset               | [Case Western](https://engineering.case.edu/bearingdatacenter) |
-| Изображения    | 21   | UTKFace                            | [Kaggle](https://www.kaggle.com/datasets/jangedoo/utkface-new) |
-| Текст          | 57   | SMS Spam Collection                | [Kaggle](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) |
-| Аудио          | 93   | Google Speech Commands             | [Kaggle](https://www.kaggle.com/datasets/kenjee/google-speech-commands) |
+| Тип данных     | Кейс | Датасет                            | Ссылка                                                                                          | Лицензия |
+|----------------|------|------------------------------------|-------------------------------------------------------------------------------------------------|----------|
+| Табличные      | 58   | Medical Insurance Price Prediction | [Kaggle](https://www.kaggle.com/datasets/harishkumardatalab/medical-insurance-price-prediction) | CC0
+| Временные ряды | 62   | CWRU Bearing Dataset               | [GitHub (npz)](https://github.com/srigas/CWRU_Bearing_NumPy)                                    | Academic |
+| Изображения    | 21   | UTKFace                            | [Kaggle](https://www.kaggle.com/datasets/jangedoo/utkface-new)                                  | Non-commercial |
+| Текст          | 57   | SMS Spam Collection                | [Kaggle](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)                     | CC0 |
+| Аудио          | 93   | Google Speech Commands             | [Kaggle](https://www.kaggle.com/datasets/kenjee/google-speech-commands)                         | CC BY 4.0 |
 
 ## Используемые технологии
 

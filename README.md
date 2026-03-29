@@ -46,7 +46,7 @@ coursework-data-analysis/
 │   └── timeseries/
 │       └── README.md
 │
-├── notebooks/                     # Jupyter ноутбуки с анализом
+├── notebooks/                     # colab ноутбуки с анализом
 ├── reports/                       # графики и скриншоты для отчета
 ├── requirements.txt               # зависимости
 ├── .gitignore
@@ -78,7 +78,3 @@ coursework-data-analysis/
    ```bash
     pip install -r requirements.txt
    ```
-3. Запустить Jupyter Notebook:
-    ```bash
-    jupyter notebook notebooks/
-    ```

@@ -15,7 +15,7 @@
 |----------------|------|------------------------------------|-------------------------------------------------------------------------------------------------|----------|
 | Табличные      | 58   | Medical Insurance Price Prediction | [Kaggle](https://www.kaggle.com/datasets/harishkumardatalab/medical-insurance-price-prediction) | CC0 |
 | Временные ряды | 62   | CWRU Bearing Dataset               | [GitHub (npz)](https://github.com/srigas/CWRU_Bearing_NumPy)                                    | Academic |
-| Изображения    | 21   | UTKFace                            | [Kaggle](https://www.kaggle.com/datasets/jangedoo/utkface-new)                                  | Non-commercial |
+| Изображения    | 22   | UTKFace                            | [Kaggle](https://www.kaggle.com/datasets/jangedoo/utkface-new)                                  | Non-commercial |
 | Текст          | 57   | SMS Spam Collection                | [Kaggle](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)                     | CC0 |
 | Аудио          | 93   | Google Speech Commands             | [Tensorflow](http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz)                         | CC BY 4.0 |
 

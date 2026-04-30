@@ -15,7 +15,7 @@
 |----------------|------|------------------------------------|-------------------------------------------------------------------------------------------------|----------|
 | Табличные      | 58   | Medical Insurance Price Prediction | [Kaggle](https://www.kaggle.com/datasets/harishkumardatalab/medical-insurance-price-prediction) | CC0 |
 | Временные ряды | 62   | CWRU Bearing Dataset               | [GitHub (npz)](https://github.com/srigas/CWRU_Bearing_NumPy)                                    | Academic |
-| Изображения    | 22   | UTKFace                            | [Kaggle](https://www.kaggle.com/datasets/jangedoo/utkface-new)                                  | Non-commercial |
+| Изображения    | 22   | Adience Benchmark Gender And Age Classification                            | [Kaggle](https://www.kaggle.com/datasets/ttungl/adience-benchmark-gender-and-age-classification)                                  | CC0: Public Domain |
 | Текст          | 57   | SMS Spam Collection                | [Kaggle](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)                     | CC0 |
 | Аудио          | 93   | Google Speech Commands             | [Tensorflow](http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz)                         | CC BY 4.0 |
 
@@ -56,7 +56,7 @@ coursework-data-analysis/
 ## Примечание по данным
 
 В репозиторий **не включены** большие датасеты:
-- UTKFace (изображения, ~700 МБ)
+- Adience Benchmark Gender And Age Classification (изображения, ~1.4 ГБ)
 - Google Speech Commands (аудио, ~1.8 ГБ)
 - CWRU Bearing Dataset (временные ряды, ~200 МБ)
 
